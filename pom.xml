@@ -14,7 +14,7 @@
     <name>StudentDemo</name>
     <description>StudentDemo</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -68,6 +68,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>studentdemo</finalName>
     </build>
 
 </project>
