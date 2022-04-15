@@ -65,10 +65,11 @@
                             <artifactId>lombok</artifactId>
                         </exclude>
                     </excludes>
+                    <finalName>mystudentdocker</finalName>
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>studentdemo</finalName>
+
     </build>
 
 </project>
